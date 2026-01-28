@@ -26,4 +26,4 @@ This program demonstrates programming skills, including modular functions, const
 
 1. Clone or download the repository:  
 ```bash
-CTA-Ticketing-System.-
+cta_ticketing.py
